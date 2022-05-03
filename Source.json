@@ -1,0 +1,47 @@
+{
+    "version": "1.0",
+    "sourceName": "laoliu软件源",
+    "sourceAuthor": "laoliu Official",
+    "sourceLinkTitle": "Github",
+    "sourceLinkUrl": "https://github.com/LiuChat",
+    "sourceImage": "https://gbox.run/Public/images/source.png",
+    "sourceUpdateTime": "2022-5-3T11:00:00+0800", 
+    "sourceDescription": "laoliu Gbox软件源",
+    "appCategories": [
+        "工具"
+    ],
+    "appRepositories": [
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-11-23T08:00:00+0800",
+            "appName": "GBox",
+            "appVersion": "1.3.6",
+            "appImage": "https://gbox.run/Public/images/icon.png",
+            "appPackage": "https://raw.githubusercontent.com/LiuChat/gbox.github.io/main/files/GBox_v3.5.9.ipa",
+            "appDescription": "GBox企业最新版"
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-5-2T08:00:00+0800",
+            "appName": "测试专用",
+            "appVersion": "1.0",
+	  "appImage": "https://raw.githubusercontent.com/LiuChat/gbox.github.io/main/icons/test.png",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": "VIP测试用，点下载，然后签名，再安装，如果能正常打开，则证明VIP成功"
+        },
+
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-27T9:30:00+0800",
+            "appName": "GBox官网",
+            "appVersion": "1.0",
+            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
+            "appLink": "https://gbox.run",
+            "appDescription": "网页连接测试"
+        },
+    ]
+}
